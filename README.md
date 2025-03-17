@@ -1,5 +1,6 @@
 # ASCII Art Converter 
 the program takes in a image and converts it into ascii
+![image](https://github.com/user-attachments/assets/9b372c52-34e0-41df-8f4e-831b0e2c8571)
 
 ## How To Use
 1. install python
